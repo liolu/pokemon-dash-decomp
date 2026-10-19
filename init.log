@@ -1,0 +1,39 @@
+[INFO ] Loading ROM from extract/usa/config.yaml
+[WARN ] Local function call from 0x02004e40 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02005018 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0200a598 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0200a680 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0200d98c in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0200da40 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02011018 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02011048 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x020110ac in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x020110e0 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02025704 in ARM9 main to 0x020b1a88 goes to middle of function 'func_020b194c' at 0x020b194c, adding an external label symbol
+[WARN ] Local function call from 0x0202d240 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0202d280 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0202d338 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0202d378 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02040650 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02040b30 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02040bbc in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02041a00 in ARM9 main to 0x02045914 leads to no function, inserting an unknown function symbol
+[WARN ] Local function call from 0x020458f0 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x0204bf50 in ARM9 main to 0x020b2bd8 leads to no function, inserting an unknown function symbol
+[WARN ] Local function call from 0x02053e74 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02053eb0 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02053f34 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x02053f74 in ARM9 main to 0x020b1880 goes to middle of function 'func_020b1804' at 0x020b1804, adding an external label symbol
+[WARN ] Local function call from 0x020aa03c in ARM9 main to 0x020aab6c goes to middle of function 'func_020aab5c' at 0x020aab5c, adding an external label symbol
+[WARN ] Local function call from 0x020aa044 in ARM9 main to 0x020aabb8 goes to middle of function 'func_020aaba8' at 0x020aaba8, adding an external label symbol
+[WARN ] Local function call from 0x020aa0e8 in ARM9 main to 0x020aab6c goes to middle of function 'func_020aab5c' at 0x020aab5c, adding an external label symbol
+[WARN ] Local function call from 0x020aa0f0 in ARM9 main to 0x020aabb8 goes to middle of function 'func_020aaba8' at 0x020aaba8, adding an external label symbol
+[WARN ] Local function call from 0x020aaa0c in ARM9 main to 0x020aab6c goes to middle of function 'func_020aab5c' at 0x020aab5c, adding an external label symbol
+[WARN ] Local function call from 0x020aaa14 in ARM9 main to 0x020aabb8 goes to middle of function 'func_020aaba8' at 0x020aaba8, adding an external label symbol
+[WARN ] Local function call from 0x020ac040 in ARM9 main to 0x020b0af4 goes to middle of function 'func_020b04a0' at 0x020b04a0, adding an external label symbol
+[WARN ] Local function call from 0x020ac780 in ARM9 main to 0x020b0a08 goes to middle of function 'func_020b04a0' at 0x020b04a0, adding an external label symbol
+[WARN ] Local function call from 0x020acc0c in ARM9 main to 0x020b25d4 goes to middle of function 'func_020b25c8' at 0x020b25c8, adding an external label symbol
+[WARN ] Local function call from 0x020adc28 in ARM9 main to 0x020b0a08 goes to middle of function 'func_020b04a0' at 0x020b04a0, adding an external label symbol
+[WARN ] Local function call from 0x020adf80 in ARM9 main to 0x020b0a08 goes to middle of function 'func_020b04a0' at 0x020b04a0, adding an external label symbol
+[WARN ] Local function call from 0x020ae83c in ARM9 main to 0x020b25d4 goes to middle of function 'func_020b25c8' at 0x020b25c8, adding an external label symbol
+[WARN ] Local function call from 0x020b25f8 in ARM9 main to 0x020b29e4 goes to middle of function 'func_020b29dc' at 0x020b29dc, adding an external label symbol
