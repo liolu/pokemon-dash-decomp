@@ -4519,11 +4519,11 @@ src/auto/func_0209d63c.c:
     complete
     .text       start:0x0209d63c end:0x0209d650
 
-src/auto/func_0209d650.c:
+src/auto/_ZN3IRQ7DisableEv.c:
     complete
     .text       start:0x0209d650 end:0x0209d664
 
-src/auto/func_0209d664.c:
+src/auto/_ZN3IRQ7RestoreEj.c:
     complete
     .text       start:0x0209d664 end:0x0209d67c
 
@@ -5263,3 +5263,83 @@ src/auto/func_020b56b4.c:
 src/auto/func_020b56d8.c:
     complete
     .text       start:0x020b56d8 end:0x020b56e8
+
+src/donor/func_02019b44.cpp:
+    complete
+    .text       start:0x02019b44 end:0x02019be8
+
+src/donor/func_02077368.cpp:
+    complete
+    .text       start:0x02077368 end:0x0207740c
+
+src/donor/func_020774d8.cpp:
+    complete
+    .text       start:0x020774d8 end:0x0207757c
+
+src/donor/func_02090d94.cpp:
+    complete
+    .text       start:0x02090d94 end:0x02090e38
+
+src/donor/func_02096af8.cpp:
+    complete
+    .text       start:0x02096af8 end:0x02096b5c
+
+src/donor/func_02096b5c.cpp:
+    complete
+    .text       start:0x02096b5c end:0x02096bc0
+
+src/donor/func_02096bc0.cpp:
+    complete
+    .text       start:0x02096bc0 end:0x02096c24
+
+src/donor/func_02096c24.cpp:
+    complete
+    .text       start:0x02096c24 end:0x02096c88
+
+src/donor/func_02096c88.cpp:
+    complete
+    .text       start:0x02096c88 end:0x02096cec
+
+src/donor/func_0209766c.cpp:
+    complete
+    .text       start:0x0209766c end:0x02097734
+
+src/donor/func_02097734.cpp:
+    complete
+    .text       start:0x02097734 end:0x02097838
+
+src/donor/func_020979a0.cpp:
+    complete
+    .text       start:0x020979a0 end:0x02097ab0
+
+src/donor/func_02097b20.cpp:
+    complete
+    .text       start:0x02097b20 end:0x02097c58
+
+src/donor/func_02097c58.cpp:
+    complete
+    .text       start:0x02097c58 end:0x02097ee8
+
+src/donor/func_0209941c.cpp:
+    complete
+    .text       start:0x0209941c end:0x02099478
+
+src/donor/func_020994b0.cpp:
+    complete
+    .text       start:0x020994b0 end:0x0209955c
+
+src/donor/func_020a4240.cpp:
+    complete
+    .text       start:0x020a4240 end:0x020a4314
+
+src/donor/func_020aac54.cpp:
+    complete
+    .text       start:0x020aac54 end:0x020aad88
+
+src/donor/func_020ad7e4.cpp:
+    complete
+    .text       start:0x020ad7e4 end:0x020ad918
+
+src/donor/func_020ad98c.cpp:
+    complete
+    .text       start:0x020ad98c end:0x020ada64

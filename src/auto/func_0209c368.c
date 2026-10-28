@@ -5,14 +5,14 @@ M2C_UNK func_0209c114();                            /* extern */
 M2C_UNK func_0209c23c(void *);                      /* extern */
 M2C_UNK func_0209c648(void *);                      /* extern */
 M2C_UNK func_0209cc04(void *);                      /* extern */
-M2C_UNK func_0209d650();                            /* extern */
+M2C_UNK _ZN3IRQ7DisableEv();                            /* extern */
 extern void **data_020d844c;
 extern M2C_UNK data_020d8468;
 
 void func_0209c368(void) {
     void *temp_r4;
 
-    func_0209d650();
+    _ZN3IRQ7DisableEv();
     temp_r4 = *data_020d844c;
     func_0209cc04(temp_r4);
     func_0209c648(temp_r4);

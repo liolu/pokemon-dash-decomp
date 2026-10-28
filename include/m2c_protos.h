@@ -7504,13 +7504,13 @@ M2C_UNK func_02096af8(void);
 M2C_UNK func_02096b5c(void);
 #endif
 #ifndef M2C_SELF_func_02096bc0
-M2C_UNK func_02096bc0(void);
+M2C_UNK _ZN5Sound23InfoInstrumentBankEntry9GetWithIDEj(void);
 #endif
 #ifndef M2C_SELF_func_02096c24
 M2C_UNK func_02096c24(void);
 #endif
 #ifndef M2C_SELF_func_02096c88
-M2C_UNK func_02096c88(void);
+M2C_UNK _ZN5Sound17InfoSequenceEntry9GetWithIDEj(void);
 #endif
 #ifndef M2C_SELF_func_02096cec
 M2C_UNK func_02096cec(void);
@@ -8230,10 +8230,10 @@ void func_0209d5cc(void);
 void func_0209d63c(void);
 #endif
 #ifndef M2C_SELF_func_0209d650
-M2C_UNK func_0209d650(void);
+M2C_UNK _ZN3IRQ7DisableEv(void);
 #endif
 #ifndef M2C_SELF_func_0209d664
-void func_0209d664(M2C_UNK);
+void _ZN3IRQ7RestoreEj(M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_0209d67c
 M2C_UNK func_0209d67c(void);
@@ -9379,7 +9379,7 @@ M2C_UNK func_020ad774(M2C_UNK, M2C_UNK);
 M2C_UNK func_020ad7b0(M2C_UNK, M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_020ad7e4
-M2C_UNK func_020ad7e4(M2C_UNK, M2C_UNK);
+M2C_UNK _ZN4cstd6strcmpEPKcS1_(M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_020ad918
 void func_020ad918(M2C_UNK, M2C_UNK, M2C_UNK);

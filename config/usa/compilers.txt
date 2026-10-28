@@ -757,3 +757,23 @@ src/auto/func_020b5610.c 1.2/sp2p3
 src/auto/func_020b563c.c 1.2/sp2p3
 src/auto/func_020b5660.c 1.2/sp2p3
 src/auto/func_020b56b4.c 1.2/sp2p3
+src/donor/func_02019b44.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02077368.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020774d8.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02090d94.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02096af8.cpp 2.0/sp1p5 -O4,p -ipa file -inline on,noauto
+src/donor/func_02096b5c.cpp 2.0/sp1p5 -O4,p -ipa file -inline on,noauto
+src/donor/func_02096bc0.cpp 2.0/sp1p5 -O4,p -ipa file -inline on,noauto
+src/donor/func_02096c24.cpp 2.0/sp1p5 -O4,p -ipa file -inline on,noauto
+src/donor/func_02096c88.cpp 2.0/sp1p5 -O4,p -ipa file -inline on,noauto
+src/donor/func_0209766c.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02097734.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020979a0.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02097b20.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_02097c58.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_0209941c.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020994b0.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020a4240.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020aac54.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020ad7e4.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020ad98c.cpp 1.2/sp2p3 -O4,p -inline on,noauto

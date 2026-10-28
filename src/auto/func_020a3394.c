@@ -2,20 +2,20 @@
 #include "engine.h"
 #include "m2c.h"
 
-M2C_UNK func_0209d650(void);
-void func_0209d664(M2C_UNK);
+M2C_UNK _ZN3IRQ7DisableEv(void);
+void _ZN3IRQ7RestoreEj(M2C_UNK);
 
 extern s32 data_020da3fc;
 
 s32 func_020a3394(void) {
     s32 temp_r0;
 
-    temp_r0 = func_0209d650();
+    temp_r0 = _ZN3IRQ7DisableEv();
     if (data_020da3fc != 0) {
-        func_0209d664(temp_r0);
+        _ZN3IRQ7RestoreEj(temp_r0);
         return 0;
     }
     data_020da3fc = 1;
-    func_0209d664(temp_r0);
+    _ZN3IRQ7RestoreEj(temp_r0);
     return 1;
 }

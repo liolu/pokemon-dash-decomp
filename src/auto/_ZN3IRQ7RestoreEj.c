@@ -2,7 +2,7 @@
 
 /* Uses instructions the compiler never generates: written in assembly. */
 // clang-format off
-asm void func_0209d664(void) {
+asm void _ZN3IRQ7RestoreEj(void) {
     mrs r1, cpsr
     bic r2, r1, #0x80
     orr r2, r2, r0

@@ -2,8 +2,8 @@
 #include "engine.h"
 #include "m2c.h"
 
-M2C_UNK func_0209d650(void);
-void func_0209d664(M2C_UNK);
+M2C_UNK _ZN3IRQ7DisableEv(void);
+void _ZN3IRQ7RestoreEj(M2C_UNK);
 void func_0209d6cc(void);
 
 extern M2C_UNK data_020d60c4;
@@ -25,7 +25,7 @@ void func_0206d588(s32 arg0, s32 arg1, s32 arg2, s32 arg3, s32 arg4) {
     M2C_FIELD(arg0, s32 *, 0x24) = 0;
     M2C_FIELD(arg0, s32 *, 0x28) = 0;
     M2C_FIELD(arg0, s16 *, 0x38) = 0;
-    temp_r5                      = func_0209d650();
+    temp_r5                      = _ZN3IRQ7DisableEv();
     var_r4                       = M2C_FIELD(&data_020d60c4, s32 *, 0);
     if (var_r4 == 0) {
         if (M2C_FIELD(&data_020d60c4, s32 *, 4) != 0) {
@@ -58,5 +58,5 @@ void func_0206d588(s32 arg0, s32 arg1, s32 arg2, s32 arg3, s32 arg4) {
             }
         }
     }
-    func_0209d664(temp_r5);
+    _ZN3IRQ7RestoreEj(temp_r5);
 }
