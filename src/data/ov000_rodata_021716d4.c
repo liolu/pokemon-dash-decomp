@@ -1,0 +1,9 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+extern u8 data_ov000_02170f60[];
+extern u8 data_ov000_02171654[];
+extern u8 data_ov000_02171744[];
+
+const u32 data_ov000_021716d4[4] = {(u32) &data_ov000_02171744, (u32) &data_ov000_02171654, (u32) &data_ov000_02170f60,
+                                    0x00000000};

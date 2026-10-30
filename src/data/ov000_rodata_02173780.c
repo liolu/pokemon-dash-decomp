@@ -1,0 +1,9 @@
+/* compiler: 2.0/sp1p5 */
+#include "m2c.h"
+
+const u32 data_ov000_02173780[17] = {0xFFDAD814, 0xFFFFD6FF, 0xC7C81AFF, 0xFF50FFFF, 0x052CFFFF, 0xFFFFFF7B,
+                                     0xFFB8C304, 0xFFFFCBFF, 0xCF0548FF, 0x04FFFFFF, 0xFFFFB17F, 0xFFFFFFED,
+                                     0xEE0501A0, 0x04FFFFFF, 0xFFFFACCC, 0x00000000, 0x00000000};
+const u32 data_ov000_021737c4[19] = {0x00000014, 0x00000000, 0x00006C00, 0x00000000, 0x057C0000, 0xFFC2E3FA, 0x66666714,
+                                     0xC2E3FAE2, 0x035528FF, 0xE3D5D8DA, 0x0516FFC2, 0xFFC2E3FA, 0x99999A04, 0xC2E3FAD3,
+                                     0x000508FF, 0x04000000, 0xD399999A, 0x00000000, 0x00000000};
