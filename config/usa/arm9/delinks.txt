@@ -14084,3 +14084,15 @@ src/donor/func_020ad774.c:
 src/donor/func_020b3b88.cpp:
     complete
     .text       start:0x020b3b88 end:0x020b3d68
+
+src/auto/func_02079b88.c:
+    complete
+    .text       start:0x02079b88 end:0x02079be4
+
+src/auto/func_0207a340.c:
+    complete
+    .text       start:0x0207a340 end:0x0207a39c
+
+src/auto/func_0207f1f8.c:
+    complete
+    .text       start:0x0207f1f8 end:0x0207f230
