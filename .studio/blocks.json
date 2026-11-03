@@ -1,10 +1,10 @@
 {
- "generation": 5,
- "created": 1793314762.457258,
+ "generation": 6,
+ "created": 1793667096.9117715,
  "block_size": 50,
  "blocks": [
   {
-   "id": "L0-05001",
+   "id": "L0-06001",
    "level": 0,
    "functions": [
     "func_0201c754",
@@ -18,67 +18,20 @@
     "func_02049554",
     "func_02049564",
     "func_02049574",
-    "func_0201a278",
-    "func_0201a304",
-    "func_0201a394",
-    "func_0203c1ac",
-    "func_02093e7c",
-    "func_0201a404",
-    "func_0207878c",
-    "func_02078800",
-    "func_020912e4",
-    "func_02091358",
-    "func_020913cc",
-    "func_02093bc8",
-    "func_02018598",
-    "func_02067c70",
-    "func_0209ba48",
     "func_020aab5c",
     "func_020aaba8",
-    "func_020aaec0",
-    "Entry",
-    "func_02077230",
-    "func_020973ec",
-    "func_02098f84",
+    "func_02067c70",
     "func_0209ad8c",
     "func_0209b088",
     "func_0209ba7c",
     "func_0209c4c8",
-    "func_0209ca54",
-    "func_0209d6e0",
-    "func_0209dacc",
-    "func_0209dba4",
-    "func_0209f328",
-    "func_0209f6e8",
     "func_020a0cec",
-    "func_020a1630",
-    "func_020a3f88",
-    "func_020a4878",
-    "func_020a4a34",
     "func_020a93d4",
-    "func_020aa070"
-   ],
-   "bytes": 8912,
-   "addr": [
-    33670996,
-    34251020
-   ]
-  },
-  {
-   "id": "L0-05002",
-   "level": 0,
-   "functions": [
     "func_020aa128",
     "func_020aa4bc",
-    "func_020aae0c",
-    "func_020aae64",
-    "func_020aaf0c",
-    "func_020aafa8",
-    "func_020ab4f8",
+    "func_020aaf5c",
     "func_020abf78",
     "func_020acab8",
-    "func_020acda0",
-    "func_020ad774",
     "func_020adb90",
     "func_020adf44",
     "func_020ae7ec",
@@ -86,22 +39,20 @@
     "func_020afad8",
     "func_020b0040",
     "func_020b2180",
-    "func_020b29dc",
     "func_020b35c4",
     "func_020b360c",
     "__FindExceptionTable",
-    "func_020b3b88",
     "func_020b3f34",
     "func_020b4914"
    ],
-   "bytes": 14696,
+   "bytes": 15932,
    "addr": [
-    34251048,
+    33670996,
     34294960
    ]
   },
   {
-   "id": "L1-05001",
+   "id": "L1-06001",
    "level": 1,
    "functions": [
     "func_0200d77c",
@@ -132,44 +83,15 @@
     "func_02018b44",
     "func_02018d28",
     "func_02018dd8",
-    "func_02018540",
-    "func_020185a4",
-    "func_02018930",
-    "func_02018a18",
-    "func_02018b08",
-    "func_02018da4",
     "func_0200d68c",
-    "func_02023954",
-    "func_020239a0",
-    "func_02023a34",
-    "func_02023a80",
     "func_0207cec4",
     "func_02084b0c",
     "func_02088174",
     "func_02074f94",
     "func_02074fac",
     "func_02074fc4",
-    "func_020022d4",
-    "func_0200230c",
     "func_02008c74",
     "func_0201c078",
-    "func_020239ec"
-   ],
-   "bytes": 2052,
-   "addr": [
-    33609596,
-    33700404
-   ]
-  },
-  {
-   "id": "L1-05002",
-   "level": 1,
-   "functions": [
-    "func_02023acc",
-    "func_02024548",
-    "func_0202457c",
-    "func_020570bc",
-    "func_0205711c",
     "func_0206600c",
     "func_020706e0",
     "func_02070870",
@@ -177,83 +99,51 @@
     "func_02074644",
     "func_020750e0",
     "func_020766cc",
-    "func_0207757c",
-    "func_0207f174",
-    "func_0207f1f8",
     "func_0207f230",
     "func_0207f658",
-    "func_02083114",
-    "func_0208315c",
     "func_02083194",
     "func_020836b4",
-    "func_02087d14",
-    "func_02087dd4",
-    "func_02089e94",
     "func_0209fab0",
-    "func_0209fae8",
+    "func_0209fae8"
+   ],
+   "bytes": 1976,
+   "addr": [
+    33609596,
+    34208544
+   ]
+  },
+  {
+   "id": "L1-06002",
+   "level": 1,
+   "functions": [
     "func_020aeaf4",
     "func_020b5298",
     "func_020b5534",
     "func_020025ac",
-    "func_020026b8",
     "func_02003564",
     "func_02008c3c",
-    "func_0200bc00",
     "func_0200cff8",
-    "func_0201b5a0",
-    "func_0201be48",
-    "func_0202755c",
-    "func_0202b3c8",
     "func_02045914_unk",
-    "func_02045d40",
-    "func_02064878",
-    "func_02064a4c",
-    "func_02064aa0",
     "func_02064afc",
     "func_02066574",
     "func_02067c48",
     "func_0206d684",
-    "func_0206e058",
-    "func_0206f370"
-   ],
-   "bytes": 2940,
-   "addr": [
-    33700556,
-    34010028
-   ]
-  },
-  {
-   "id": "L1-05003",
-   "level": 1,
-   "functions": [
     "func_020705c4",
     "func_02070654",
     "func_020707e8",
-    "func_02073b04",
     "func_020742a8",
     "func_02075b80",
-    "func_02075e0c",
     "func_020768a4",
-    "func_0207bde8",
     "func_0207c0c4",
     "func_0207c620",
-    "func_0207f1bc",
-    "func_0207fca0",
     "func_02080cd4",
-    "func_02082160",
-    "func_0208274c",
-    "func_02082b14",
-    "func_02082b74",
-    "func_02082e9c",
     "func_020830d8",
     "func_02086138",
     "func_020872a8",
     "func_020887a8",
-    "func_020932d0",
     "func_020957ac",
     "func_02095914",
     "func_02095a28",
-    "func_020983bc",
     "func_0209844c",
     "func_0209d9c0",
     "func_020b2bd8_unk",
@@ -263,14 +153,14 @@
     "__sinit_020be60c",
     "__sinit_020be610"
    ],
-   "bytes": 1936,
+   "bytes": 1580,
    "addr": [
-    34014660,
+    34269940,
     34334228
    ]
   },
   {
-   "id": "L2-05001",
+   "id": "L2-06001",
    "level": 2,
    "functions": [
     "func_02003a44",
@@ -331,7 +221,7 @@
    ]
   },
   {
-   "id": "L2-05002",
+   "id": "L2-06002",
    "level": 2,
    "functions": [
     "func_02004864",
@@ -383,29 +273,23 @@
     "func_02075120",
     "func_02075174",
     "func_020751c8",
-    "func_020799f0"
+    "func_02079be4"
    ],
-   "bytes": 3620,
+   "bytes": 3592,
    "addr": [
     33572964,
-    34052660
+    34053132
    ]
   },
   {
-   "id": "L2-05003",
+   "id": "L2-06003",
    "level": 2,
    "functions": [
-    "func_02079b88",
-    "func_02079be4",
-    "func_0207a1a8",
-    "func_0207a340",
     "func_0207a39c",
     "func_0207afc8",
     "func_0207aff4",
     "func_0207b6a0",
     "func_0207b6c4",
-    "func_0208b558",
-    "func_0208b6f0",
     "func_0208b74c",
     "func_0208c058",
     "func_0208c07c",
@@ -422,8 +306,6 @@
     "func_0203b9c0",
     "func_0204f008",
     "func_0205f480",
-    "func_0206396c",
-    "func_020639a8",
     "func_0206650c",
     "func_02073894",
     "func_020738e0",
@@ -431,31 +313,16 @@
     "func_02073e50",
     "func_02074bf4",
     "func_02074c3c",
-    "func_02075cac",
-    "func_02075d28",
     "func_020885d4",
     "func_020886f4",
     "func_0208c268",
     "func_0208c6d0",
     "func_0208caa4",
     "func_0208e8b4",
-    "func_02090afc",
-    "func_02090c48",
     "func_020aeae8",
     "func_020b523c",
     "func_020b52b0",
-    "Sqrt"
-   ],
-   "bytes": 4388,
-   "addr": [
-    34053000,
-    33554564
-   ]
-  },
-  {
-   "id": "L2-05004",
-   "level": 2,
-   "functions": [
+    "Sqrt",
     "VBlankIntrWait",
     "HuffUnCompReadByCallback",
     "IntrWait",
@@ -467,32 +334,37 @@
     "Mod",
     "SoftReset",
     "LZ77UnCompReadByCallbackWrite16bit",
-    "CpuFastSet",
+    "CpuFastSet"
+   ],
+   "bytes": 3292,
+   "addr": [
+    34055068,
+    33555874
+   ]
+  },
+  {
+   "id": "L2-06004",
+   "level": 2,
+   "functions": [
     "WaitByLoop",
     "Div",
     "BitUnPack",
     "IsDebugger",
     "CpuSet",
     "func_02000ec4",
-    "func_02002344",
     "func_02002a8c",
     "func_02002ae0",
     "func_02002ed0",
     "func_020059fc",
-    "func_02005e90",
     "func_02005fa4",
     "func_0200647c",
     "func_0200663c",
-    "func_02006aa8",
     "func_02007074",
-    "func_02007754",
-    "func_02007960",
     "func_02008d40",
     "func_02009684",
     "func_0200c7a8",
     "func_0200c87c",
     "func_0200ca24",
-    "func_0200d5c4",
     "func_02014dac",
     "func_0201601c",
     "func_02016088",
@@ -503,53 +375,38 @@
     "func_0201c884",
     "func_0201fdcc",
     "func_0202073c",
-    "func_020207f0",
-    "func_02020f98",
-    "func_0202231c"
-   ],
-   "bytes": 3508,
-   "addr": [
-    33554680,
-    33694564
-   ]
-  },
-  {
-   "id": "L2-05005",
-   "level": 2,
-   "functions": [
+    "func_0202231c",
     "func_020228bc",
-    "func_02023124",
     "func_0202349c",
-    "func_020273d8",
-    "func_0202b358",
-    "func_0202e630",
-    "func_0202e68c",
     "func_0202f170",
     "func_020312c4",
     "func_02033250",
-    "func_0203b978",
-    "func_02045028",
     "func_0204583c",
-    "func_02045898",
     "func_02045928",
     "func_02045cf4",
     "func_02045db8",
-    "func_02045f54",
     "func_020460e8",
     "func_02046214",
     "func_02046244",
     "func_020470f8",
-    "func_02047330",
     "func_020473b8",
     "func_02047db4",
-    "func_02047e1c",
-    "func_02047e8c",
     "func_0204ec54",
     "func_020525ec",
     "func_02054ba8",
     "func_02056068",
-    "func_02057520",
-    "func_0205c1cc",
+    "func_02057520"
+   ],
+   "bytes": 4916,
+   "addr": [
+    33555944,
+    33912328
+   ]
+  },
+  {
+   "id": "L2-06005",
+   "level": 2,
+   "functions": [
     "func_0205e2a4",
     "func_02060514",
     "func_02060608",
@@ -560,37 +417,18 @@
     "func_02064988",
     "func_02064b3c",
     "func_02066958",
-    "func_02069848",
-    "func_0206997c",
     "func_0206c0d8",
     "func_0206c8dc",
     "func_0206cdd4",
     "func_0206d9f0",
-    "func_020703fc"
-   ],
-   "bytes": 5480,
-   "addr": [
-    33695932,
-    34014292
-   ]
-  },
-  {
-   "id": "L2-05006",
-   "level": 2,
-   "functions": [
     "func_02071be4",
     "func_02073b18",
     "func_02073eac",
     "func_02074000",
-    "func_020741f8",
-    "func_02074380",
     "func_0207465c",
     "func_02074ba0",
     "func_02075548",
     "func_02075b44",
-    "func_02075bbc",
-    "func_02075c38",
-    "func_02076010",
     "func_02076124",
     "func_020766e0",
     "func_020767b8",
@@ -601,56 +439,37 @@
     "func_0207c2d0",
     "func_0207c640",
     "func_0207c720",
-    "func_0207cb6c",
-    "func_0207d5d8",
-    "func_0207d7d8",
-    "func_0207d830",
     "func_0207ed10",
     "func_0207f0a0",
     "func_0207f134",
     "func_0207fc24",
     "func_020800bc",
-    "func_020801f8",
-    "func_02080258",
     "func_020802b0",
-    "func_0208051c",
     "func_02080890",
-    "func_02080d20",
     "func_0208150c",
     "func_020816ac",
-    "func_0208191c",
-    "func_020819ac",
-    "func_02081a40",
-    "func_02081c90",
     "func_02081cfc",
     "func_02082568",
-    "func_020825b4",
-    "func_02082928",
-    "func_02082d88",
-    "func_02083e8c"
-   ],
-   "bytes": 5068,
-   "addr": [
-    34020324,
-    34094816
-   ]
-  },
-  {
-   "id": "L2-05007",
-   "level": 2,
-   "functions": [
+    "func_02083e8c",
     "func_0208444c",
     "func_020866b0",
     "func_020868e4",
-    "func_02086dbc",
     "func_02087c68",
-    "func_02087d70",
-    "func_02088010",
     "func_020885fc",
-    "func_02088688",
+    "func_02088688"
+   ],
+   "bytes": 5724,
+   "addr": [
+    33940132,
+    34113268
+   ]
+  },
+  {
+   "id": "L2-06006",
+   "level": 2,
+   "functions": [
     "func_0208871c",
     "func_02088df0",
-    "func_02089da4",
     "func_02089e24",
     "func_02089e4c",
     "func_0208c6f8",
@@ -661,7 +480,6 @@
     "func_0208d6e4",
     "func_0208e63c",
     "func_0208e878",
-    "func_0208f290",
     "func_0208fd20",
     "func_02092c68",
     "func_02093ad0",
@@ -673,38 +491,23 @@
     "func_02096f28",
     "func_020978b0",
     "func_020980c8",
-    "func_02098538",
     "func_02098554",
     "func_02098c38",
     "func_02098c50",
     "func_02098c70",
     "func_02098c8c",
     "func_0209bf1c",
+    "func_0209c9a4",
     "func_0209cc54",
-    "func_0209ce8c",
-    "func_0209e0d8",
     "func_0209fb84",
     "func_0209fe28",
     "func_020a084c",
     "func_020a0968",
-    "func_020a0f34",
-    "func_020a134c"
-   ],
-   "bytes": 5192,
-   "addr": [
-    34096204,
-    34214848
-   ]
-  },
-  {
-   "id": "L2-05008",
-   "level": 2,
-   "functions": [
+    "func_020a134c",
     "func_020a3cd0",
     "func_020a3fdc",
     "func_020a416c",
     "func_020a4b2c",
-    "func_020a6300",
     "func_020aac24",
     "func_020aac2c",
     "func_020aac34",
@@ -714,7 +517,18 @@
     "func_020ab6e8",
     "func_020b17a4",
     "func_020b2da0",
-    "func_020b2e0c",
+    "func_020b2e0c"
+   ],
+   "bytes": 4832,
+   "addr": [
+    34113308,
+    34287120
+   ]
+  },
+  {
+   "id": "L2-06007",
+   "level": 2,
+   "functions": [
     "func_020b2eb4",
     "func_020b2ec8",
     "func_020b4f14",
@@ -722,40 +536,18 @@
     "__sinit_020be558",
     "__sinit_020be5b0",
     "func_01ff825c",
-    "__sinit_ov000_021794d8",
-    "func_ov001_020dc7ac",
-    "func_ov001_020dd9d0"
+    "__sinit_ov000_021794d8"
    ],
-   "bytes": 1444,
+   "bytes": 392,
    "addr": [
-    34225360,
-    34462176
+    34287284,
+    35099892
    ]
   },
   {
-   "id": "L3-05001",
+   "id": "L3-06001",
    "level": 3,
    "functions": [
-    "func_0201f0ac",
-    "func_02029364",
-    "func_02029628",
-    "func_02029668",
-    "func_020296a8",
-    "func_020296e8",
-    "func_02029728",
-    "func_02029768",
-    "func_020297a8",
-    "func_020297e8",
-    "func_02029828",
-    "func_02048ba4",
-    "func_0207c5a0",
-    "func_0207c5e0",
-    "func_0207d19c",
-    "func_02082bd0",
-    "func_0208de80",
-    "func_020931e0",
-    "func_02093220",
-    "func_020939bc",
     "func_02019cac",
     "func_0202ba70",
     "func_0202bf0c",
@@ -785,18 +577,7 @@
     "func_0208e23c",
     "func_02090e38",
     "func_02090ff8",
-    "func_02092084"
-   ],
-   "bytes": 6232,
-   "addr": [
-    33681580,
-    34152660
-   ]
-  },
-  {
-   "id": "L3-05002",
-   "level": 3,
-   "functions": [
+    "func_02092084",
     "func_02092110",
     "func_0201b774",
     "func_0201b9e8",
@@ -816,7 +597,18 @@
     "func_02018680",
     "func_02018778",
     "func_02018c9c",
-    "func_02077e98",
+    "func_02077e98"
+   ],
+   "bytes": 8216,
+   "addr": [
+    33660076,
+    34045732
+   ]
+  },
+  {
+   "id": "L3-06002",
+   "level": 3,
+   "functions": [
     "func_02005338",
     "func_0200c4d8",
     "func_02011314",
@@ -825,14 +617,11 @@
     "func_02048be4",
     "func_02076190",
     "func_02077df0",
-    "func_02077f98",
-    "func_020781d0",
     "func_02079824",
     "func_020798e8",
     "func_02079fdc",
     "func_0207a0a0",
     "func_0208a708",
-    "func_0208a8c0",
     "func_0208b38c",
     "func_0208b450",
     "func_0200c454",
@@ -846,28 +635,11 @@
     "func_0202b414",
     "func_0202b494",
     "func_0202b5a0",
-    "func_0202b648"
-   ],
-   "bytes": 7500,
-   "addr": [
-    34152720,
-    33732336
-   ]
-  },
-  {
-   "id": "L3-05003",
-   "level": 3,
-   "functions": [
+    "func_0202b648",
     "func_0202bccc",
     "func_0202be44",
-    "func_02036cb0",
-    "func_02036fe4",
     "func_0203dd44",
     "func_0203de14",
-    "func_0206e67c",
-    "func_0206e924",
-    "func_02070698",
-    "func_02070828",
     "func_020737c0",
     "func_02073bac",
     "func_02073d30",
@@ -886,9 +658,19 @@
     "func_0208fe48",
     "func_02092ef0",
     "func_020930e8",
-    "func_02093c3c",
+    "func_02093c3c"
+   ],
+   "bytes": 7368,
+   "addr": [
+    33575736,
+    34159896
+   ]
+  },
+  {
+   "id": "L3-06003",
+   "level": 3,
+   "functions": [
     "func_02093db4",
-    "func_020aaf5c",
     "func_020018a8",
     "func_020023bc",
     "func_020025fc",
@@ -898,27 +680,14 @@
     "func_02003c78",
     "func_02005f10",
     "func_020064b0",
-    "func_020065ac",
     "func_0200691c",
     "func_02006c88",
-    "func_020070d4",
     "func_02007158",
     "func_02007d18",
     "func_02008678",
     "func_02008750",
     "func_02008a04",
-    "func_02008c88"
-   ],
-   "bytes": 8560,
-   "addr": [
-    33733836,
-    33590520
-   ]
-  },
-  {
-   "id": "L3-05004",
-   "level": 3,
-   "functions": [
+    "func_02008c88",
     "func_02009600",
     "func_0200a2e0",
     "func_0200c3e4",
@@ -950,8 +719,18 @@
     "func_02020d4c",
     "func_02020e18",
     "func_020212f0",
-    "func_02022250",
-    "func_020225fc",
+    "func_020225fc"
+   ],
+   "bytes": 9728,
+   "addr": [
+    34160052,
+    33695404
+   ]
+  },
+  {
+   "id": "L3-06004",
+   "level": 3,
+   "functions": [
     "func_02024290",
     "func_02024454",
     "func_020261e4",
@@ -963,33 +742,16 @@
     "func_02031054",
     "func_020320dc",
     "func_0203231c",
-    "func_020372e0",
     "func_020388d0",
     "func_02039cc8",
-    "func_0203f31c",
     "func_020401c0",
-    "func_020404f4"
-   ],
-   "bytes": 9968,
-   "addr": [
-    33592832,
-    33818036
-   ]
-  },
-  {
-   "id": "L3-05005",
-   "level": 3,
-   "functions": [
+    "func_020404f4",
     "func_020458e8",
     "func_0204594c",
     "func_02045a14",
     "func_02046278",
     "func_02046424",
     "func_020464e8",
-    "func_02046b54",
-    "func_02046f1c",
-    "func_02046ff0",
-    "func_02047068",
     "func_02047188",
     "func_0204c310",
     "func_0204dd04",
@@ -1014,12 +776,22 @@
     "func_0205daa0",
     "func_0205e900",
     "func_0205ea90",
-    "func_0205eb08",
     "func_0205ef04",
     "func_020610cc",
     "func_02063748",
     "func_020638fc",
-    "func_020648dc",
+    "func_020648dc"
+   ],
+   "bytes": 13208,
+   "addr": [
+    33702544,
+    33966472
+   ]
+  },
+  {
+   "id": "L3-06005",
+   "level": 3,
+   "functions": [
     "func_02065f40",
     "func_02066834",
     "func_02066cc4",
@@ -1029,18 +801,7 @@
     "func_020698b8",
     "func_0206bed0",
     "func_0206c004",
-    "func_0206d9a0"
-   ],
-   "bytes": 12864,
-   "addr": [
-    33839336,
-    34003428
-   ]
-  },
-  {
-   "id": "L3-05006",
-   "level": 3,
-   "functions": [
+    "func_0206d9a0",
     "func_0206e1e4",
     "func_0206e248",
     "func_0206e3f0",
@@ -1051,7 +812,6 @@
     "func_0206ffcc",
     "func_02070454",
     "func_020704f0",
-    "func_0207078c",
     "func_02070b38",
     "func_0207129c",
     "func_020714ec",
@@ -1060,7 +820,6 @@
     "func_02071848",
     "func_02071974",
     "func_02071a74",
-    "func_02071e5c",
     "func_02072d88",
     "func_02072e28",
     "func_02072f0c",
@@ -1076,32 +835,29 @@
     "func_02074d9c",
     "func_02074fe8",
     "func_02075258",
-    "func_0207550c",
     "func_020757bc",
     "func_020759d8",
     "func_02075ad4",
     "func_02075da4",
     "func_02076234",
     "func_02076730",
-    "func_02076c8c",
-    "func_02076df8",
-    "func_0207bba4",
-    "func_0207bc20",
-    "func_0207bd00",
-    "func_0207bd74",
-    "func_0207be40",
-    "func_0207c3c0"
+    "func_02076c8c"
    ],
-   "bytes": 8400,
+   "bytes": 9880,
    "addr": [
-    34005476,
-    34063344
+    33972032,
+    34041148
    ]
   },
   {
-   "id": "L3-05007",
+   "id": "L3-06006",
    "level": 3,
    "functions": [
+    "func_02076df8",
+    "func_0207bba4",
+    "func_0207bd00",
+    "func_0207bd74",
+    "func_0207be40",
     "func_0207c3f0",
     "func_0207c68c",
     "func_0207c74c",
@@ -1112,6 +868,7 @@
     "func_0207d3c8",
     "func_0207d484",
     "func_0207d518",
+    "func_0207d5d8",
     "func_0207d878",
     "func_0207d968",
     "func_0207da08",
@@ -1124,7 +881,6 @@
     "func_0207f28c",
     "func_0207f348",
     "func_0207fcf0",
-    "func_0207ff4c",
     "func_0207ffd0",
     "func_02080448",
     "func_02080ac0",
@@ -1132,19 +888,14 @@
     "func_02081748",
     "func_02081a84",
     "func_02081b24",
-    "func_02081cc4",
     "func_02081da4",
     "func_02081e0c",
     "func_020823c8",
     "func_0208244c",
     "func_020825e4",
-    "func_0208284c",
-    "func_020828e4",
-    "func_02082964",
     "func_020829dc",
     "func_02082a64",
     "func_02082ac8",
-    "func_02082b40",
     "func_02082e28",
     "func_020832c4",
     "func_02083d48",
@@ -1153,14 +904,14 @@
     "func_020849d4",
     "func_02084b60"
    ],
-   "bytes": 8200,
+   "bytes": 8516,
    "addr": [
-    34063344,
+    34041336,
     34098192
    ]
   },
   {
-   "id": "L3-05008",
+   "id": "L3-06007",
    "level": 3,
    "functions": [
     "func_02084f0c",
@@ -1172,27 +923,22 @@
     "func_02085c38",
     "func_0208661c",
     "func_02086adc",
-    "func_02086b78",
     "func_02086c50",
     "func_02086d30",
     "func_020874c0",
-    "func_02088068",
     "func_020881c8",
+    "func_020884a0",
     "func_020887f4",
-    "func_020888ac",
     "func_02088ab4",
     "func_0208a7b0",
-    "func_0208c188",
     "func_0208c788",
     "func_0208c9f8",
-    "func_0208d2a8",
     "func_0208d470",
     "func_0208e2e4",
     "func_0208e68c",
     "func_0208f224",
     "func_0208f384",
     "func_0208f6d0",
-    "func_0208fd78",
     "func_02091f50",
     "func_02092d60",
     "func_02092fe8",
@@ -1203,34 +949,32 @@
     "func_020954d8",
     "func_02095540",
     "func_02095620",
-    "func_020956e0",
     "func_02096214",
     "func_02096560",
     "func_02098238",
     "func_02098ca8",
     "func_0209b654",
-    "func_0209c9a4",
     "func_0209cb94",
     "func_0209ccc8",
-    "func_0209cf00"
-   ],
-   "bytes": 8768,
-   "addr": [
-    34098956,
-    34197420
-   ]
-  },
-  {
-   "id": "L3-05009",
-   "level": 3,
-   "functions": [
+    "func_0209cf00",
     "func_0209db20",
     "func_0209dbf8",
     "func_0209f104",
     "func_0209fbc8",
     "func_0209ffc0",
     "func_020a0118",
-    "func_020a0360",
+    "func_020a0360"
+   ],
+   "bytes": 8916,
+   "addr": [
+    34098956,
+    34210816
+   ]
+  },
+  {
+   "id": "L3-06008",
+   "level": 3,
+   "functions": [
     "func_020a08e8",
     "func_020a14d4",
     "func_020a1c20",
@@ -1253,20 +997,18 @@
     "func_020b5358",
     "__sinit_020be614",
     "func_01ff8000",
-    "func_01ff8420",
     "func_01ff8460",
     "func_01ff8498",
-    "func_01ff84e8",
-    "func_ov001_020dd6c8"
+    "func_01ff84e8"
    ],
-   "bytes": 4628,
+   "bytes": 3492,
    "addr": [
-    34200352,
-    34461452
+    34212072,
+    33522992
    ]
   },
   {
-   "id": "L4-05001",
+   "id": "L4-06001",
    "level": 4,
    "functions": [
     "func_02019be8",
@@ -1306,6 +1048,8 @@
     "func_02091fec",
     "func_0200cb60",
     "func_0200cdb0",
+    "func_02036cb0",
+    "func_02036fe4",
     "func_0203c1ec",
     "func_0203c920",
     "func_02040284",
@@ -1316,20 +1060,20 @@
     "func_02073104",
     "func_02073444",
     "func_0207849c",
-    "func_02078568",
-    "func_0207d2ac",
-    "func_02081edc"
+    "func_02078568"
    ],
-   "bytes": 9120,
+   "bytes": 9460,
    "addr": [
     33659880,
-    34086756
+    34047540
    ]
   },
   {
-   "id": "L4-05002",
+   "id": "L4-06002",
    "level": 4,
    "functions": [
+    "func_0207d2ac",
+    "func_02081edc",
     "func_02081f64",
     "func_02089438",
     "func_02089668",
@@ -1352,9 +1096,6 @@
     "func_020041f8",
     "func_020054c4",
     "func_02005b70",
-    "func_0200606c",
-    "func_02006234",
-    "func_02006b1c",
     "func_02006d28",
     "func_0200758c",
     "func_0200779c",
@@ -1379,19 +1120,19 @@
     "func_02014bd4",
     "func_02017544",
     "func_02018f9c",
-    "func_02019958"
+    "func_02019958",
+    "func_0201b118"
    ],
-   "bytes": 16192,
+   "bytes": 15604,
    "addr": [
-    34086756,
-    33659580
+    34067116,
+    33665672
    ]
   },
   {
-   "id": "L4-05003",
+   "id": "L4-06003",
    "level": 4,
    "functions": [
-    "func_0201b118",
     "func_0201b288",
     "func_0201bf94",
     "func_0201c9a0",
@@ -1427,6 +1168,7 @@
     "func_020362c8",
     "func_02036dd8",
     "func_0203710c",
+    "func_020372e0",
     "func_020393e4",
     "func_0203abe8",
     "func_0203adf0",
@@ -1437,22 +1179,21 @@
     "func_0203d364",
     "func_02040048",
     "func_02042860",
-    "func_02043c4c",
     "func_02043db0",
     "func_020442d8",
-    "func_020444a0"
+    "func_020444a0",
+    "func_02044c38"
    ],
-   "bytes": 18544,
+   "bytes": 18412,
    "addr": [
-    33665304,
-    33834488
+    33665672,
+    33836364
    ]
   },
   {
-   "id": "L4-05004",
+   "id": "L4-06004",
    "level": 4,
    "functions": [
-    "func_02044c38",
     "func_02044dcc",
     "func_02045ae4",
     "func_02045e6c",
@@ -1501,21 +1242,19 @@
     "func_0206dbe4",
     "func_0206ddc4",
     "func_0206e124",
-    "func_0206e2d8"
+    "func_0206e2d8",
+    "func_0206f2e0"
    ],
-   "bytes": 21444,
+   "bytes": 21312,
    "addr": [
-    33836088,
-    34006000
+    33836492,
+    34009968
    ]
   },
   {
-   "id": "L4-05005",
+   "id": "L4-06005",
    "level": 4,
    "functions": [
-    "func_0206e7fc",
-    "func_0206f2e0",
-    "func_0206f710",
     "func_0206fee0",
     "func_02070088",
     "func_020701f8",
@@ -1562,28 +1301,27 @@
     "func_02080920",
     "func_02080b40",
     "func_02080e0c",
-    "func_02080ff4"
+    "func_02080ff4",
+    "func_02081164",
+    "func_02081334",
+    "func_02081580"
    ],
-   "bytes": 14044,
+   "bytes": 14932,
    "addr": [
-    34007036,
-    34083172
+    34012896,
+    34084524
    ]
   },
   {
-   "id": "L4-05006",
+   "id": "L4-06006",
    "level": 4,
    "functions": [
-    "func_02081164",
-    "func_02081334",
-    "func_02081580",
     "func_02081810",
     "func_0208218c",
     "func_02082234",
     "func_020822b8",
     "func_02082874",
     "func_02083aec",
-    "func_02083c20",
     "func_02083ee0",
     "func_020845cc",
     "func_020848c4",
@@ -1600,7 +1338,7 @@
     "func_020872f8",
     "func_020879c4",
     "func_02088320",
-    "func_020884a0",
+    "func_020888ac",
     "func_02088ffc",
     "func_020891e8",
     "func_02089358",
@@ -1623,22 +1361,22 @@
     "func_02094380",
     "func_020948ac",
     "func_02094bd4",
-    "func_02094cd8"
-   ],
-   "bytes": 15280,
-   "addr": [
-    34083172,
-    34164140
-   ]
-  },
-  {
-   "id": "L4-05007",
-   "level": 4,
-   "functions": [
+    "func_02094cd8",
     "func_02094e30",
     "func_02094fd8",
     "func_020953f4",
-    "func_020960d0",
+    "func_020960d0"
+   ],
+   "bytes": 14980,
+   "addr": [
+    34084880,
+    34169364
+   ]
+  },
+  {
+   "id": "L4-06007",
+   "level": 4,
+   "functions": [
     "func_02096d14",
     "func_02098118",
     "func_020982a0",
@@ -1655,7 +1393,6 @@
     "func_020a4c54",
     "func_020a5500",
     "func_020a66b8",
-    "func_020a74e0",
     "func_020a75dc",
     "func_020aaff0",
     "func_020ab254",
@@ -1666,17 +1403,16 @@
     "func_01ff83a0",
     "func_01ff8530",
     "func_ov001_020dc6f8",
-    "func_ov001_020dc910",
     "func_ov001_020dd944"
    ],
-   "bytes": 8512,
+   "bytes": 7224,
    "addr": [
-    34164272,
+    34172180,
     34462160
    ]
   },
   {
-   "id": "L5-05001",
+   "id": "L5-06001",
    "level": 5,
    "functions": [
     "func_02078da0",
@@ -1722,24 +1458,27 @@
     "func_02004320",
     "func_02004888",
     "func_02005570",
+    "func_0200606c",
+    "func_02006234",
     "func_02006730",
+    "func_02006b1c",
     "func_02007398",
     "func_02008de8",
-    "func_02009710",
-    "func_0200a3a0",
-    "func_0200ab7c",
-    "func_0200ad40"
+    "func_02009710"
    ],
-   "bytes": 49960,
+   "bytes": 45384,
    "addr": [
     34049440,
-    33602560
+    33596128
    ]
   },
   {
-   "id": "L5-05002",
+   "id": "L5-06002",
    "level": 5,
    "functions": [
+    "func_0200a3a0",
+    "func_0200ab7c",
+    "func_0200ad40",
     "func_0200bc58",
     "func_0200bd84",
     "func_0200c104",
@@ -1786,21 +1525,21 @@
     "func_02020968",
     "func_020214fc",
     "func_02022be4",
-    "func_020234ec",
-    "func_020235fc",
-    "func_02023c08",
-    "func_0202475c"
+    "func_020234ec"
    ],
-   "bytes": 64820,
+   "bytes": 67104,
    "addr": [
-    33602648,
-    33705048
+    33596320,
+    33699324
    ]
   },
   {
-   "id": "L5-05003",
+   "id": "L5-06003",
    "level": 5,
    "functions": [
+    "func_020235fc",
+    "func_02023c08",
+    "func_0202475c",
     "func_02024c58",
     "func_020255a8",
     "func_020275b0",
@@ -1847,25 +1586,26 @@
     "func_0203e5d4",
     "func_0203ea1c",
     "func_0203ed7c",
-    "func_0203f384",
-    "func_0203f518",
-    "func_0203fd90",
-    "func_020405b4"
+    "func_0203f384"
    ],
-   "bytes": 76492,
+   "bytes": 75488,
    "addr": [
-    33705048,
-    33819676
+    33699324,
+    33813784
    ]
   },
   {
-   "id": "L5-05004",
+   "id": "L5-06004",
    "level": 5,
    "functions": [
+    "func_0203f518",
+    "func_0203fd90",
+    "func_020405b4",
     "func_02040c20",
     "func_02042adc",
     "func_02042f9c",
     "func_020433b8",
+    "func_02043c4c",
     "func_02043ef4",
     "func_020445f8",
     "func_0204507c",
@@ -1907,22 +1647,22 @@
     "func_02052abc",
     "func_02053238",
     "func_02054bf8",
-    "func_02054ec4",
-    "func_020552d4",
-    "func_020560b4",
-    "func_02056aa0",
-    "func_02057be4"
+    "func_02054ec4"
    ],
-   "bytes": 65232,
+   "bytes": 60824,
    "addr": [
-    33819680,
-    33915740
+    33813784,
+    33902956
    ]
   },
   {
-   "id": "L5-05005",
+   "id": "L5-06005",
    "level": 5,
    "functions": [
+    "func_020552d4",
+    "func_020560b4",
+    "func_02056aa0",
+    "func_02057be4",
     "func_02058728",
     "func_020589e8",
     "func_02058bf0",
@@ -1968,22 +1708,22 @@
     "func_02070c00",
     "func_02070f2c",
     "func_02071ec4",
-    "func_0207288c",
-    "func_02076920",
-    "func_02076b44",
-    "func_020775d0",
-    "func_020788d4"
+    "func_0207288c"
    ],
-   "bytes": 66868,
+   "bytes": 72304,
    "addr": [
-    33916712,
-    34049440
+    33903316,
+    34024192
    ]
   },
   {
-   "id": "L5-05006",
+   "id": "L5-06006",
    "level": 5,
    "functions": [
+    "func_02076920",
+    "func_02076b44",
+    "func_020775d0",
+    "func_020788d4",
     "func_0207b7d0",
     "func_0207b8e8",
     "func_0207c110",
@@ -2029,22 +1769,22 @@
     "func_020a65a4",
     "func_020a6800",
     "func_020a6944",
-    "func_020a6a68",
-    "func_020a6e64",
-    "func_020a7860",
-    "func_020a7ab8",
-    "func_020ab73c"
+    "func_020a6a68"
    ],
-   "bytes": 35408,
+   "bytes": 30920,
    "addr": [
-    34060240,
-    34258808
+    34040096,
+    34238052
    ]
   },
   {
-   "id": "L5-05007",
+   "id": "L5-06007",
    "level": 5,
    "functions": [
+    "func_020a6e64",
+    "func_020a7860",
+    "func_020a7ab8",
+    "func_020ab73c",
     "func_020ac704",
     "func_020ad004",
     "func_020ae19c",
@@ -2056,6 +1796,7 @@
     "func_020b1804",
     "func_020b194c",
     "func_020b1c94",
+    "_u32_div_f",
     "func_020b2ed4",
     "func_020b4088",
     "func_01ff8058",
@@ -2070,9 +1811,9 @@
     "func_ov001_020ddbb4",
     "func_ov001_020ddda4"
    ],
-   "bytes": 21780,
+   "bytes": 30584,
    "addr": [
-    34260740,
+    34238052,
     34463400
    ]
   }
