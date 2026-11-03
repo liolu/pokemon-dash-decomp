@@ -1,7 +1,7 @@
 /* compiler: 1.2/sp2p3  */
 #include "m2c.h"
 
-s32 func_020b27d0(s32, M2C_UNK);                    /* extern */
+s32 _s32_div_f(s32, M2C_UNK);                    /* extern */
 
 s32 func_0204db74(void *arg0) {
     M2C_UNK var_r1;
@@ -14,7 +14,7 @@ s32 func_0204db74(void *arg0) {
         } else {
             var_r1 = 0x20;
         }
-        return func_020b27d0(M2C_FIELD(temp_r2, s32 *, 0x10), var_r1);
+        return _s32_div_f(M2C_FIELD(temp_r2, s32 *, 0x10), var_r1);
     }
     return -1;
 }

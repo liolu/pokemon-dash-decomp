@@ -742,11 +742,11 @@ src/auto/func_020ab400.c 1.2/sp2p3
 src/auto/func_020ab4e0.c 1.2/sp2p3
 src/auto/func_020ad5f0.c 1.2/sp2p3
 src/auto/func_020b3658.c 1.2/sp2p3
-src/auto/func_020b3944.c 1.2/sp2p3
+src/auto/_Z20__DecodeSignedNumberPcPl.c 1.2/sp2p3
 src/auto/func_020b39ec.c 1.2/sp2p3
 src/auto/func_020b3e8c.c 1.2/sp2p3
 src/auto/func_020b517c.c 1.2/sp2p3
-src/auto/func_020b51a0.c 1.2/sp2p3
+src/auto/_ZSt9terminatev.c 1.2/sp2p3
 src/auto/func_020b51f4.c 1.2/sp2p3
 src/auto/func_020b554c.c 1.2/sp2p3
 src/auto/func_020b5578.c 1.2/sp2p3
@@ -919,7 +919,7 @@ src/auto/func_020af1e8.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/auto/func_020af354.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020af390.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020b2620.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
-src/auto/func_020b27d0.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/auto/_s32_div_f.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_020b34e0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/auto/func_020b3514.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/auto/func_020b353c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
@@ -1005,7 +1005,7 @@ src/donor/func_020ae57c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020ae8bc.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020b375c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020b3838.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
-src/donor/func_020b389c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/_Z22__DecodeUnsignedNumberPcPm.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020b3a34.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020b3b18.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/donor/func_020b3d68.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
@@ -1193,3 +1193,33 @@ src/auto/func_0206e924.c 1.2/sp2p3
 src/auto/func_0207757c.c 1.2/sp2p3
 src/auto/func_0207cb6c.c 1.2/sp2p3
 src/auto/func_02089e94.c 1.2/sp2p3
+src/donor/Entry.c 2.0/sp1p5
+src/donor/func_02018598.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/donor/func_0201a278.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_0201a304.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_0201a394.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_0201a404.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0203c1ac.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_0207878c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_02078800.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_02093e7c.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020956e0.c 1.2/sp2p3
+src/donor/func_02098f84.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0209ca54.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0209d6e0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0209f328.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0209f6e8.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020a1630.c 1.2/sp2p3
+src/donor/func_020a3f88.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020a4878.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020a74e0.c 1.2/sp2p3
+src/donor/func_020aa070.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020aae0c.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020aae64.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020aaec0.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020aaf0c.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020aafa8.cpp 1.2/sp2p3 -O4,p -inline on,noauto
+src/donor/func_020ab4f8.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020acda0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020ad774.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020b3b88.cpp 1.2/sp2p3 -O4,p -inline on,noauto

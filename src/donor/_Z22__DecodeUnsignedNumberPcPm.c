@@ -1,7 +1,7 @@
 /* compiler: 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto */
 /* func_02071a50 from https://github.com/tangosdev/sm64ds-decomp src/unnamed/arm9/0207/func_02071a50.c (license: MIT), reused
  * by tools/donor_match.py */
-unsigned char *func_020b389c(unsigned char *p, int *out) {
+unsigned char *_Z22__DecodeUnsignedNumberPcPm(unsigned char *p, int *out) {
     unsigned int b0 = p[0];
     if ((b0 & 1) == 0) {
         *out = b0 >> 1;

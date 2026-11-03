@@ -1,7 +1,7 @@
 #include "m2c.h"
 
-M2C_UNK func_020b51a0();                            /* extern */
+M2C_UNK _ZSt9terminatev();                            /* extern */
 
 void func_020b51c4(void) {
-    func_020b51a0();
+    _ZSt9terminatev();
 }

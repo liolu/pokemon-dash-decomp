@@ -1,7 +1,7 @@
 /* compiler: 1.2/sp2p3  */
 #include "m2c.h"
 
-void *func_020b3944(void *arg0, s32 *arg1) {
+void *_Z20__DecodeSignedNumberPcPl(void *arg0, s32 *arg1) {
     s8 temp_r3;
     u8 temp_ip;
     u8 temp_lr;

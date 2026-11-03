@@ -1,6 +1,6 @@
 /* compiler: 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto */
 /* _ll_sdiv from https://github.com/tangosdev/sm64ds-decomp src/_ll_sdiv.c (license: MIT), reused by tools/donor_match.py */
-extern int func_020b27d0(int num, int den);
+extern int _s32_div_f(int num, int den);
 // clang-format off
 asm long long func_020b2620(long long num, long long den)
 {
@@ -20,7 +20,7 @@ _L020:
     orrs r6, r5, r6
     bne _L054
     mov r1, r2
-    bl func_020b27d0
+    bl _s32_div_f
     ands r4, r4, #1
     movne r0, r1
     mov r1, r0, asr #0x1f

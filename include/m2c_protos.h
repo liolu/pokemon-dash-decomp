@@ -4228,10 +4228,10 @@ void *func_020b375c(char *);
 s32 func_020b37f8(void);
 #endif
 #ifndef M2C_SELF_func_020b389c
-unsigned char *func_020b389c(unsigned char *, int *);
+unsigned char *_Z22__DecodeUnsignedNumberPcPm(unsigned char *, int *);
 #endif
 #ifndef M2C_SELF_func_020b3944
-void *func_020b3944(void *, s32 *);
+void *_Z20__DecodeSignedNumberPcPl(void *, s32 *);
 #endif
 #ifndef M2C_SELF_func_020b39ec
 void func_020b39ec(void *);
@@ -4273,7 +4273,7 @@ void func_020b515c(s32, s32, void *);
 void func_020b517c(void);
 #endif
 #ifndef M2C_SELF_func_020b51a0
-void func_020b51a0(void);
+void _ZSt9terminatev(void);
 #endif
 #ifndef M2C_SELF_func_020b51c4
 void func_020b51c4(void);
@@ -9217,7 +9217,7 @@ M2C_UNK func_020b2180(M2C_UNK, M2C_UNK);
 M2C_UNK func_020b25c8(void);
 #endif
 #ifndef M2C_SELF_func_020b29dc
-M2C_UNK func_020b29dc(M2C_UNK, M2C_UNK);
+M2C_UNK _u32_div_f(M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_020b2d58
 void func_020b2d58(void);

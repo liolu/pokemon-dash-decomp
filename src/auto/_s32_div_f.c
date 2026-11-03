@@ -1,10 +1,10 @@
 /* compiler: 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto */
-/* func_020b27d0 from https://github.com/sturmds/advance-wars-dual-strike-decomp src/sdk/runtime/s32_div_f.c (license:
+/* _s32_div_f from https://github.com/sturmds/advance-wars-dual-strike-decomp src/sdk/runtime/s32_div_f.c (license:
  * CC0-1.0), reused by tools/donor_match.py */
 typedef signed int s32;
-extern s32 func_020b27d0(s32 dividend, s32 divisor);
+extern s32 _s32_div_f(s32 dividend, s32 divisor);
 // clang-format off
-asm s32 func_020b27d0(s32 dividend, s32 divisor)
+asm s32 _s32_div_f(s32 dividend, s32 divisor)
 {
 
     eor r12, r0, r1

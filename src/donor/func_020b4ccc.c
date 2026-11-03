@@ -16,7 +16,7 @@ struct S {
 extern int __FindExceptionTable(struct S *p, int v);
 extern struct E *func_020b4df0(struct E *base, int count, unsigned int key);
 extern unsigned char *func_020b3658(unsigned char *p);
-extern unsigned char *func_020b389c(unsigned char *p, int *out);
+extern unsigned char *_Z22__DecodeUnsignedNumberPcPm(unsigned char *p, int *out);
 void func_020b4ccc(int r4, struct S *sb) {
     struct E *e;
     unsigned char *p;
@@ -44,12 +44,12 @@ void func_020b4ccc(int r4, struct S *sb) {
     p      = func_020b3658(sb->f1);
     acc    = 0;
     do {
-        p = func_020b389c(p, &a);
+        p = _Z22__DecodeUnsignedNumberPcPm(p, &a);
         if (a == 0) {
             return;
         }
-        p   = func_020b389c(p, &b);
-        p   = func_020b389c(p, &c);
+        p   = _Z22__DecodeUnsignedNumberPcPm(p, &b);
+        p   = _Z22__DecodeUnsignedNumberPcPm(p, &c);
         tmp = acc + (unsigned int) a;
         if (end < tmp) {
             return;

@@ -5172,7 +5172,7 @@ src/auto/func_020b37f8.c:
     complete
     .text       start:0x020b37f8 end:0x020b3800
 
-src/auto/func_020b3944.c:
+src/auto/_Z20__DecodeSignedNumberPcPl.c:
     complete
     .text       start:0x020b3944 end:0x020b39ec
 
@@ -5196,7 +5196,7 @@ src/auto/func_020b517c.c:
     complete
     .text       start:0x020b517c end:0x020b51a0
 
-src/auto/func_020b51a0.c:
+src/auto/_ZSt9terminatev.c:
     complete
     .text       start:0x020b51a0 end:0x020b51c4
 
@@ -5956,7 +5956,7 @@ src/auto/func_020b2620.c:
     complete
     .text       start:0x020b2620 end:0x020b27d0
 
-src/auto/func_020b27d0.c:
+src/auto/_s32_div_f.c:
     complete
     .text       start:0x020b27d0 end:0x020b29dc
 
@@ -6300,7 +6300,7 @@ src/donor/func_020b3838.c:
     complete
     .text       start:0x020b3838 end:0x020b389c
 
-src/donor/func_020b389c.c:
+src/donor/_Z22__DecodeUnsignedNumberPcPm.c:
     complete
     .text       start:0x020b389c end:0x020b3944
 
@@ -13964,3 +13964,123 @@ src/auto/func_0207cb6c.c:
 src/auto/func_02089e94.c:
     complete
     .text       start:0x02089e94 end:0x02089ee8
+
+src/donor/Entry.c:
+    complete
+    .text       start:0x02000800 end:0x02000900
+
+src/donor/func_02018598.c:
+    complete
+    .text       start:0x02018598 end:0x020185a4
+
+src/donor/func_0201a278.cpp:
+    complete
+    .text       start:0x0201a278 end:0x0201a2b8
+
+src/donor/func_0201a304.cpp:
+    complete
+    .text       start:0x0201a304 end:0x0201a344
+
+src/donor/func_0201a394.cpp:
+    complete
+    .text       start:0x0201a394 end:0x0201a3d4
+
+src/donor/func_0201a404.c:
+    complete
+    .text       start:0x0201a404 end:0x0201a478
+
+src/donor/func_0203c1ac.cpp:
+    complete
+    .text       start:0x0203c1ac end:0x0203c1ec
+
+src/donor/func_0207878c.c:
+    complete
+    .text       start:0x0207878c end:0x02078800
+
+src/donor/func_02078800.c:
+    complete
+    .text       start:0x02078800 end:0x02078874
+
+src/donor/func_02093e7c.cpp:
+    complete
+    .text       start:0x02093e7c end:0x02093ebc
+
+src/donor/func_020956e0.c:
+    complete
+    .text       start:0x020956e0 end:0x02095750
+
+src/donor/func_02098f84.c:
+    complete
+    .text       start:0x02098f84 end:0x02099318
+
+src/donor/func_0209ca54.c:
+    complete
+    .text       start:0x0209ca54 end:0x0209cb00
+
+src/donor/func_0209d6e0.c:
+    complete
+    .text       start:0x0209d6e0 end:0x0209d788
+
+src/donor/func_0209f328.c:
+    complete
+    .text       start:0x0209f328 end:0x0209f6e8
+
+src/donor/func_0209f6e8.c:
+    complete
+    .text       start:0x0209f6e8 end:0x0209f904
+
+src/donor/func_020a1630.c:
+    complete
+    .text       start:0x020a1630 end:0x020a17bc
+
+src/donor/func_020a3f88.c:
+    complete
+    .text       start:0x020a3f88 end:0x020a3fdc
+
+src/donor/func_020a4878.c:
+    complete
+    .text       start:0x020a4878 end:0x020a49c0
+
+src/donor/func_020a74e0.c:
+    complete
+    .text       start:0x020a74e0 end:0x020a7560
+
+src/donor/func_020aa070.c:
+    complete
+    .text       start:0x020aa070 end:0x020aa10c
+
+src/donor/func_020aae0c.cpp:
+    complete
+    .text       start:0x020aae0c end:0x020aae64
+
+src/donor/func_020aae64.cpp:
+    complete
+    .text       start:0x020aae64 end:0x020aaec0
+
+src/donor/func_020aaec0.cpp:
+    complete
+    .text       start:0x020aaec0 end:0x020aaf0c
+
+src/donor/func_020aaf0c.cpp:
+    complete
+    .text       start:0x020aaf0c end:0x020aaf5c
+
+src/donor/func_020aafa8.cpp:
+    complete
+    .text       start:0x020aafa8 end:0x020aaff0
+
+src/donor/func_020ab4f8.c:
+    complete
+    .text       start:0x020ab4f8 end:0x020ab544
+
+src/donor/func_020acda0.c:
+    complete
+    .text       start:0x020acda0 end:0x020ad004
+
+src/donor/func_020ad774.c:
+    complete
+    .text       start:0x020ad774 end:0x020ad7b0
+
+src/donor/func_020b3b88.cpp:
+    complete
+    .text       start:0x020b3b88 end:0x020b3d68
