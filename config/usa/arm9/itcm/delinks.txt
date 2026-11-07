@@ -4,3 +4,15 @@
 src/auto/func_01ff8420.c:
     complete
     .text       start:0x01ff8420 end:0x01ff8460
+
+src/auto/func_01ff83a0.c:
+    complete
+    .text       start:0x01ff83a0 end:0x01ff8420
+
+src/auto/func_01ff8460.c:
+    complete
+    .text       start:0x01ff8460 end:0x01ff8498
+
+src/auto/func_01ff8498.c:
+    complete
+    .text       start:0x01ff8498 end:0x01ff84e8
